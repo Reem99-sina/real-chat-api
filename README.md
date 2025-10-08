@@ -22,7 +22,7 @@ The app is designed with authentication, real-time updates, and a clean RESTful 
 
 Real-Time Chat API Documentation
 
-https://cloudy-sunset-901741.postman.co/workspace/My-Workspace~13f3400d-51e0-4b09-82c2-8bc207ac20f4/collection/19716445-e6f12eaf-e124-46ac-a6ef-e8b1e74fb9e3?action=share&creator=19716445
+https://cloudy-sunset-901741.postman.co/workspace/My-Workspace~13f3400d-51e0-4b09-82c2-8bc207ac20f4/collection/19716445-824f0e7c-0656-4357-b927-4fbc629a4d8d?action=share&creator=19716445
 
 user
 POST /api/user/signup → Register new user
